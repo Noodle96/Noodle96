@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Rxyhn's Aesthetic GitHub Profile -->
+<div align="justify">
 
-<!--
-**Noodle96/Noodle96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Russell,  a Math and Computer Science student, I like Penguins, but I don't like Windows.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=510&height=45&lines=I+code+aesthetic+programs+and+resolve+math+problems.">
+      <br>
+      <b>
+        ~ Russell Tito ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
